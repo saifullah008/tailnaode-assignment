@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailnaode-assignment/static/css/main.f4a67e3d.css",
+    "main.js": "/tailnaode-assignment/static/js/main.3a07c7b3.js",
+    "static/js/787.a5cad257.chunk.js": "/tailnaode-assignment/static/js/787.a5cad257.chunk.js",
+    "index.html": "/tailnaode-assignment/index.html",
+    "main.f4a67e3d.css.map": "/tailnaode-assignment/static/css/main.f4a67e3d.css.map",
+    "main.3a07c7b3.js.map": "/tailnaode-assignment/static/js/main.3a07c7b3.js.map",
+    "787.a5cad257.chunk.js.map": "/tailnaode-assignment/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a67e3d.css",
+    "static/js/main.3a07c7b3.js"
+  ]
+}
